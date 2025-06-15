@@ -1,0 +1,17 @@
+{
+  "emergency_contacts": [
+    
+    {
+      "name": "Shruti",
+      "phone": "+919116608782",
+      "whatsapp": "+919116608782",
+      "email": "shruti2403sharma@gmail.com"
+    },
+    {
+      "name": "Chhavi",
+      "phone": "+918619718956",
+      "whatsapp": "+918619718956",
+      "email": "chhavisharma251@gmail.com"
+    }
+  ]
+}
